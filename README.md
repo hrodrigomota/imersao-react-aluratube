@@ -11,6 +11,6 @@ This project was created during the Imersão React #5, an event developed by Alu
 - [ReactJS](https://reactjs.org/)
 - [NextJS](https://nextjs.org/)
 - [Figma](https://www.figma.com/)
-- [Node.js](https://nodejs.org/en/)
+- [NodeJS](https://nodejs.org/en/)
 - [Styled-components](https://styled-components.com/)
 - [Supabase](https://supabase.com/)
